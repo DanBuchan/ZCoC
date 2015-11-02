@@ -50,7 +50,7 @@ in active group collaboration.
 
 Simply, we don't babysit people on our site to make sure they treat you
 with respect... Whoa hold up! Did you see what I did there? I might be king of the brogrammers by day but by night I'm mother-fucking Cicero. Using my amazing rhetorical skills I totally implied
-that we're all adults because you totally need babysitting. If you feel discriminated against that's your fault for being a baby and being preoccupied
+that we're all adults because *you* totally need babysitting. If you feel discriminated against that's your fault for being a baby and being preoccupied
 with such childish things like racism and misogyny.
 
 #### Q: Without a CoC, how would I possibly feel safe engaging in your community?  How would I raise a red flag if I am mistreated?
@@ -79,7 +79,7 @@ We strive to lead by example.  We feel there are enough level-headed adults here
 
 However, if someone tells you you are stupid, or wrong.  Stop.  Think.  This is a tricky one.  Have you considered, that you could be in the wrong, that you are responsible for your own harassment and discrimination?
 
-If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here, we want these discussions to stay strictly **ON TOPIC**. We are confident if you are a level-headed adult (and not a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
+If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here or where it relates to how we manage our community, we want these discussions to stay strictly **ON TOPIC**. We are confident if you are a level-headed adult (and not a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
 
 #### Q: Your name is offensive.  CoC sounds like Cock, and I feel that this is a group of white males that is trying to downplay the seriousness of this issue in our community, and I boycott your movement, and am going to tell others to as well!
 
