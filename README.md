@@ -1,7 +1,7 @@
 # What is ZCoC?
 
 Zero Code of Conduct is the totally amazing improvement on
-[NCoC link](https://github.com/domgetter/NCoC). You can think of it as NCoC++
+[NCoC](https://github.com/domgetter/NCoC). You can think of it as NCoC++
 (which is a totally amazing coding reference which you'll get if you're an
 awesome adult like us). ZCoC will help you find communities and projects online
 which don't get endlessly stuck on trying to politely negotiate the needs and
@@ -9,7 +9,7 @@ feelings of other legitimate human beings. That shit is totally boring AMIRITE?
 
 So, if you like
 [/r/theredpill](https://www.reddit.com//r/theredpill) or
-[Gamer Gate](https://www.reddit.com/r/GamerGhazi) or [4Chan][www.4chan.org]
+[Gamer Gate](https://www.reddit.com/r/GamerGhazi) or [4Chan](www.4chan.org)
 then ZCoC is for you!
 
 #### What if... we all agreed that...
@@ -76,18 +76,16 @@ profiles. So there's no need to take anybody's feelings in to account.
 
 #### Q: Without a CoC, how would this community be welcoming to newcomers, and not become vile, intimidating, or have some other type of unwelcome agenda?
 
-We strive to lead by example.  We feel there are enough level-headed adults here to back you up.  Yo, did I mention that we are all adults and totally not babies
-who care about harassment or discrimination?
+We strive to lead by example.  We feel there are enough level-headed adults here to back you up.  Yo, back-the-fuck-up, have I already mentioned that we are all adults and totally not babies who care about harassment or discrimination?
 
-However, if someone tells you you are stupid, or wrong.  Stop.  Think.  This is a tricky one.  Have you considered, that you are responsible for your own
-harassment and discrimination? If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here, we want these discussions to stay
-strictly **ON TOPIC** We are confident if you are a level-headed adult (and not
-a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
+However, if someone tells you you are stupid, or wrong.  Stop.  Think.  This is a tricky one.  Have you considered, that you could be in the wrong, that you are responsible for your own harassment and discrimination?
+
+If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here, we want these discussions to stay strictly **ON TOPIC**. We are confident if you are a level-headed adult (and not a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
 
 #### Q: Your name is offensive.  CoC sounds like Cock, and I feel that this is a group of white males that is trying to downplay the seriousness of this issue in our community, and I boycott your movement, and am going to tell others to as well!
 
-That wasn't really a question, but we will answer it anyways.  This is an example of starting a fire where there does not need to be one. By addressing this we
-totally believe that makes us immune to any kind of constructive criticism.
+That wasn't really a question, but we will answer it anyways.  This is an example of starting a fire where there does not need to be one. And we really believe that by addressing this here that somehow makes us immune to any kind of constructive criticism. We'll get to how awesome freedoms of speech is shortly but
+please don't be using any of that to critique this.
 
 #### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
 
@@ -114,13 +112,12 @@ from our totally awesome project.
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
 Lock, and ban your way to freedom. There is Zero Code of Conduct so you'll
-just have to pull whatever arbitrary justification you need our of your ass.
-This is unfortunate and totally not the depressingly predictable outcome of adopting ZeroCode of Conduct.
+just have to pull whatever arbitrary justification you need out of your ass.
+You community mat become confused about what is or is not acceptable discussion. This is unfortunate and totally not the depressingly predictable outcome of adopting Zero Code of Conduct.
 
 #### Q: WTF, the discussion was locked, and/or I can't reply!?
 
-Once again, we are not going to tolerate our community being overridden by the mob.  If this starts to happen, we will nuke, delete, lock, close, ban, and do whatever we have to do to put the fire out. These discussions drag on and on and on, and they don't make communities better. Although we are obviously adults who could easily resolve any issues that might come up we're totally not going to do
-that nor let people talk it out.
+Once again, we are not going to tolerate our community being overridden by the mob.  If this starts to happen, we will nuke, delete, lock, close, ban, and do whatever we have to do to put the fire out. These discussions drag on and on and on, and they don't make communities better. Although we are obviously adults who could easily resolve any issues that might come up we're definitely not going to do that nor let people talk it out.
 
 #### Q: Why don't you care about my feelings?
 
