@@ -81,20 +81,19 @@ We strive to lead by example.  We feel there are enough level-headed adults here
 
 However, if someone tells you you are stupid, or wrong.  Stop.  Think.  This is a tricky one.  Have you considered, that you could be in the wrong, that you are responsible for your own harassment and discrimination?
 
-If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here or where it relates to how we manage our community, we want these discussions to stay strictly **ON TOPIC**. We are confident if you are a level-headed adult (and not a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
+If you feel you're not wrong, please, by all means, reply.  We love discussion! Just not here nor where it relates to how we manage our community, we want these discussions to stay strictly **ON TOPIC**. And by 'on topic' we mean not about anything which will make the community run more smoothly. We are confident if you are a level-headed adult (and not a big baby who gets discriminated against), then you will be treated like one.  Other level-headed adults (like we totally are!) want to hear from you.
 
 #### Q: Your name is offensive.  CoC sounds like Cock, and I feel that this is a group of white males that is trying to downplay the seriousness of this issue in our community, and I boycott your movement, and am going to tell others to as well!
 
 That wasn't really a question, but we will answer it anyways.  This is an example of starting a fire where there does not need to be one. And we really believe that by addressing this here that somehow makes us immune to any kind of constructive criticism. We'll get to how awesome freedom of speech is shortly but
-please don't be using any of that to critique this.
+please don't be using any of that to critique this document.
 
 #### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
 
-Email that person, and try to work it out. Email the owners of the community, and alert them, although why that should make a difference is beyond me as we're
+Email that person, and try to work it out. Email the owners of the community, and alert them, although why that should make a difference is beyond us as we're
 all about there being Zero Code of Conduct (high five!)
 
-Whatever you do, do not make a scene, as that will burden the entire community with your issue. We don't want to be reading about that shit. When I need to
-bro down and drop some sweet code bombs I don’t need some SJW harshing my buzz.
+Whatever you do, do not make a scene, as that will burden the entire community with your issue. We don't want to be reading about that shit. When I need to bro down and drop some sweet code bombs I don’t need some SJW harshing my buzz.
 
 Remember there is only so much a moderator or personal discussion can accomplish because there is Zero Code of Conduct! See how that works? It's Amazing right?
 
@@ -108,7 +107,7 @@ discrimination.
 
 This is not world court. If it's not abundantly clear already we simply don't
 want to hear about your fee-fees being hurt. Take it somewhere else and away
-from our totally awesome project.
+from our totally awesome project. When I’m trying to write the next lightweight, zero latency, cross platform, javascript framework I certainly don't need no bleeding hearts getting in the way. 
 
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
