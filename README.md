@@ -118,8 +118,12 @@ Your community may become confused about what is or is not acceptable discussion
 
 #### Q: WTF, the discussion was locked, and/or I can't reply!?
 
-Once again, we are not going to tolerate our community being overridden by the mob.  If this starts to happen, we will nuke, delete, lock, close, ban, and do whatever we have to do to put the fire out, as long as it does not require us to add or change any policies or adjust the way we behave towards other people (like yourself). These discussions drag on and on and on, and they don't make communities better. Although we are obviously adults who could easily resolve any issues that might come up we're definitely not going to do that nor let people talk it out.
+Once again, we are not going to tolerate our community being overridden by the mob.  If this starts to happen, we will nuke, delete, lock, close, ban, and do whatever we have to do to put the fire out, as long as it does not require us to add or change any policies or adjust the way we behave towards other people (like yourself). These discussions drag on and on and on, and they don't make communities better. 
+
+It's always better that the community feels that they have no means of redress and that those in charge will take no useful or meaningful actions when required.
+
+Although we are obviously adults who could easily resolve any issues that might come up we're definitely not going to do that nor let people talk it out.
 
 #### Q: Why don't you care about my feelings?
 
-We are not a support group for your fee-fees. We are a community that strives to focus around our vey adult topics. And we're going to build community by rejecting the fundamental idea that communities are made up of actual real people (many of whom might have different backgrounds and life experiences) because that's totally how that works.
+We are not a support group for your fee-fees. We are a community that strives to focus around our very adult topics. And we're going to build community by rejecting the fundamental idea that communities are made up of actual real people (many of whom might have different backgrounds and life experiences) because that's totally how that works.
