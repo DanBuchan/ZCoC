@@ -30,8 +30,8 @@ would be like to struggle to just be basically acknowledged.
 #### Q: Great! How do I add this to my project?
 
 Simply copy CODE_OF_CONDUCT.md into the root directory of your project.  You
-may modify it to your needs because Open Source is totally a thing that I
-heard about and I can claim some moral high ground because I'm doing this for
+may modify it to your needs because Open Source is totally a thing that we
+heard about and we can claim some moral high ground because I'm doing this for
 free for people.
 
 #### Q: How do I promote Zero Code of Conduct?
