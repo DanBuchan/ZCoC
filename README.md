@@ -12,6 +12,8 @@ So, if you like
 [Gamer Gate](https://www.reddit.com/r/GamerGhazi) or even [4Chan](www.4chan.org)
 then ZCoC is for you!
 
+And we totally didn't write this because we once taken down a peg or two by a project mod for using offensive language and we still resent them.
+
 #### What if... we all agreed that...
 
 1. We are all adults. Capable of having totally adult discussions. Not at all
