@@ -9,7 +9,7 @@ feelings of other legitimate human beings. That shit is totally boring AMIRITE?
 
 So, if you like
 [/r/theredpill](https://www.reddit.com//r/theredpill) or
-[Gamer Gate](https://www.reddit.com/r/GamerGhazi) or even [4Chan](www.4chan.org)
+[Gamer Gate](https://www.reddit.com/r/KotakuInAction/) or even [4Chan](www.4chan.org)
 then ZCoC is for you!
 
 And we totally didn't write this because we were once taken down a peg or two by a project mod for using offensive language and we still resent them (the bitch).
