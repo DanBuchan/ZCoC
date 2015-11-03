@@ -125,4 +125,4 @@ Although we are obviously adults who could easily resolve any issues that might 
 
 #### Q: Why don't you care about my feelings?
 
-We are not a support group for your fee-fees. We are a community that strives to focus around our very adult topics. And we're going to build community by rejecting the fundamental idea that communities are made up of actual real people (many of whom might have different backgrounds and life experiences) because that's totally how that works.
+We are not a support group for human emotion. We are a community that strives to focus around our topics. Anything else takes away from that. Plus we're totally scared and confused by human emotions. We're going to build communities by rejecting the fundamental idea that communities are made up of actual real people (many of whom might have different backgrounds and life experiences) because that's totally how that works.
