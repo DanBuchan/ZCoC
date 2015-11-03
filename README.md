@@ -86,28 +86,26 @@ If you feel you're not wrong, please, by all means, reply.  We love discussion! 
 #### Q: Your name is offensive.  CoC sounds like Cock, and I feel that this is a group of white males that is trying to downplay the seriousness of this issue in our community, and I boycott your movement, and am going to tell others to as well!
 
 That wasn't really a question, but we will answer it anyways.  This is an example of starting a fire where there does not need to be one. And we really believe that by addressing this here that somehow makes us immune to any kind of constructive criticism. We'll get to how awesome freedom of speech is shortly but
-please don't be using any of that to critique this document.
+please don't be using any of your free speech to critique this document.
 
 #### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
 
-Email that person, and try to work it out. Email the owners of the community, and alert them, although why that should make a difference is beyond us as we're
+Email that person, and try to work it out, bullies and harassars always respond favourably to their victim's requests. Email the owners of the community, and alert them, although why that should make a difference is beyond us as we're
 all about there being Zero Code of Conduct (high five!)
 
 Whatever you do, do not make a scene, as that will burden the entire community with your issue. We don't want to be reading about that shit. When I need to bro down and drop some sweet code bombs I don’t need some SJW harshing my buzz.
 
-Remember there is only so much a moderator or personal discussion can accomplish because there is Zero Code of Conduct! See how that works? It's Amazing right?
+Remember there is only so much a moderator or personal discussion can accomplish because there is Zero Code of Conduct! Did you see how that works, this ZCoC thing is totally working.
 
 #### Q: What about off-topic chatter?
 
-Off topic chatter should be discouraged, but not censored. Freedom of speech,
-including hate speech is way more important than combating childish things like
-discrimination.
+Off topic chatter should be discouraged, but not censored (of course). If there's anything more precious than the freedom to enable bullying it is the Freedom of speech. Allowing hate speech is way more important than combating childish things like discrimination.
 
 #### Q: How can I contribute to your project or community when I see someone said something on a different site or community which directly makes me feel awful?
 
 This is not world court. If it's not abundantly clear already we simply don't
 want to hear about your fee-fees being hurt. Take it somewhere else and away
-from our totally awesome project. When I’m trying to write the next lightweight, zero latency, cross platform, javascript framework I certainly don't need no bleeding hearts getting in the way. 
+from our totally awesome project. When I’m trying to write the next lightweight, zero latency, cross platform, javascript framework I certainly don't need your feelings getting in the way. 
 
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
@@ -121,7 +119,7 @@ Once again, we are not going to tolerate our community being overridden by the m
 
 It's always better that the community feels that they have no means of redress and that those in charge will take no useful or meaningful actions when required.
 
-Although we are obviously adults who could easily resolve any issues that might come up we're definitely not going to do that nor let people talk it out.
+Although we are obviously adults who csn easily resolve any issues that might come up but we're definitely not going to do that nor let people talk it out.
 
 #### Q: Why don't you care about my feelings?
 
