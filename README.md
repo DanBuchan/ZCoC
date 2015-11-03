@@ -1,6 +1,6 @@
 # What is ZCoC?
 
-Zero Code of Conduct is the totally amazing improvement on
+Zero Code of Conduct is the most bitchin' next level version of
 [NCoC](https://github.com/domgetter/NCoC). You can think of it as NCoC++
 (which is a totally amazing coding reference which you'll get if you're an
 awesome programming mega-dude like us). ZCoC will help you find communities and projects online
