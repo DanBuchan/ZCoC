@@ -17,7 +17,7 @@ And we totally didn't write this because we were once taken down a peg or two by
 #### What if... we all agreed that...
 
 1. We are all adults. Capable of having totally adult discussions. Not at all
-like those childish black, female or queer folks with all their issues and
+like those black, female or queer folks with all their issues and
 their childish struggles to achieve fair representation. Fuck those dudes, lets
 just keep this between the adults.
 
