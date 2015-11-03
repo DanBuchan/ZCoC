@@ -111,9 +111,9 @@ from our totally awesome project. When I’m trying to write the next lightweigh
 
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
-Lock, and ban your way to freedom. There is Zero Code of Conduct so you'll
-just have to pull whatever arbitrary justification you need out of your ass.
-Your community may become confused about what is or is not acceptable discussion. This is unfortunate and totally not the depressingly predictable outcome of adopting Zero Code of Conduct.
+Lock, and ban your way to freedom. It’s not like the people who routinely engage in mob mentality care much about their accounts; they probably have fifty backups anyway!
+
+There is Zero Code of Conduct so you'll just have to pull whatever arbitrary justification you need out of your ass. Your community may become confused about what is or is not acceptable discussion. This is unfortunate and totally not the depressingly predictable outcome of adopting Zero Code of Conduct.
 
 #### Q: WTF, the discussion was locked, and/or I can't reply!?
 
