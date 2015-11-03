@@ -65,7 +65,7 @@ P.S. You should probably man up like all the rest of us adults.
 
 #### Q: If you don't have a CoC, this will surely be the end of your project, and the end of some talented individuals contributing to it!
 
-There is plenty of proof that not having a CoC is a workable solution. Lennart Poettering totally said the Linux community is a "sick place to be" and we all just love to bro-out in sickest of joints.
+There is plenty of proof that not having a CoC is a workable solution. Lennart Poettering totally said the Linux community is a "sick place to be" and we all just love to bro-out in the sickest joints.
 
 And did I mention you'll only be harassed if you harass others. After all being harassed is totally a sign that you brought it on yourself.
 
@@ -73,7 +73,7 @@ And did I mention you'll only be harassed if you harass others. After all being 
 
 These are understandably different. The real world needs CoCs, the
 internet doesn't because there aren't actual people behind any of those online
-profiles. So there's no need to take anybody's feelings in to account. We all have to suffer through equality and diversity bullshit at work, when we get home we want feel safe in the knowledge that we can take part in a community where minorities have no right of redress.
+profiles. So there's no need to take anybody's feelings in to account. We all have to suffer through equality and diversity bullshit at work, when we get home we want feel safe in the knowledge that we can take part in a community where the harassed and bullied have no right of redress.
 
 #### Q: Without a CoC, how would this community be welcoming to newcomers, and not become vile, intimidating, or have some other type of unwelcome agenda?
 
