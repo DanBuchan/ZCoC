@@ -90,7 +90,7 @@ please don't be using any of your free speech to critique this document.
 
 #### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
 
-Email that person, and try to work it out, bullies and harassars always respond favourably to their victim's requests. Email the owners of the community, and alert them, although why that should make a difference is beyond us as we're
+Email that person, and try to work it out, bullies and harassers always respond favourably to their victim's requests. Email the owners of the community, and alert them, although why that should make a difference is beyond us as we're
 all about there being Zero Code of Conduct (high five!)
 
 Whatever you do, do not make a scene, as that will burden the entire community with your issue. We don't want to be reading about that shit. When I need to bro down and drop some sweet code bombs I don’t need some SJW harshing my buzz.
@@ -119,7 +119,7 @@ Once again, we are not going to tolerate our community being overridden by the m
 
 It's always better that the community feels that they have no means of redress and that those in charge will take no useful or meaningful actions when required.
 
-Although we are obviously adults who csn easily resolve any issues that might come up but we're definitely not going to do that nor let people talk it out.
+Although we are obviously adults who can easily resolve any issues that might come up but we're definitely not going to do that nor let people talk it out.
 
 #### Q: Why don't you care about my feelings?
 
