@@ -105,7 +105,7 @@ Off topic chatter should be discouraged, but not censored (of course). If there'
 
 This is not world court. If it's not abundantly clear already we simply don't
 want to hear about your fee-fees being hurt. Take it somewhere else and away
-from our totally awesome project. When I’m trying to write the next lightweight, zero latency, cross platform, javascript framework I certainly don't need your feelings getting in the way. 
+from our totally awesome project. When I’m trying to write the next lightweight, zero latency, cross platform javascript framework I certainly don't need your feelings getting in the way. 
 
 #### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
 
